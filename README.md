@@ -1,5 +1,4 @@
-## Hi there 👋 
-##I'm Saroja Sobarad
+## Hi there 👋 I'm Kushi Sobarad
 
 🎓 Pre-Final Year Engineering Student | AI & Machine Learning Enthusiast
 
