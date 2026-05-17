@@ -1,5 +1,5 @@
-## Hi there 👋
-## Hi there 👋 I'm Saroja Sobarad
+## Hi there 👋 
+##I'm Saroja Sobarad
 
 🎓 Pre-Final Year Engineering Student | AI & Machine Learning Enthusiast
 
