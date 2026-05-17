@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on AI and open-source projects
 - 🤔 I’m looking for help with real-world AI implementations
 - 💬 Ask me about AI, Machine Learning, Python, and Computer Vision
-- 📫 How to reach me: your_email@example.com
+- 📫 How to reach me: sarojasobarad@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: Playing Chess, Cycling
