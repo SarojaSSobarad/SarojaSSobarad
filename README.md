@@ -9,4 +9,4 @@
 - 💬 Ask me about AI, Machine Learning, Python and Computer Vision
 - 📫 How to reach me: sarojasobarad05@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Hobbies: Playing Chess(Participated in rated chess tournaments), Cycling
+- ⚡ Hobbies: Playing Chess(Participated in rated chess tournaments), Cycling, Drawing
